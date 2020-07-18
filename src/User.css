@@ -1,0 +1,12 @@
+.flex-css {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.width-css {
+    margin: 20px;
+    width: 320px;
+    height: 350px;
+}

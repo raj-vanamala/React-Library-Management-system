@@ -1,0 +1,90 @@
+{
+  "Books": [
+    {
+      "id": 3,
+      "title": "Specification by Example",
+      "isbn": "1617290084",
+      "pageCount": 100,
+      "bookCount": 1
+    },
+    {
+      "id": 4,
+      "title": "Flex 3 in Action",
+      "isbn": "1933988746",
+      "pageCount": 576,
+      "bookCount": 1
+    },
+    {
+      "id": 5,
+      "title": "Flex 4 in Action",
+      "isbn": "1935182420",
+      "pageCount": 600,
+      "bookCount": 0
+    },
+    {
+      "id": 6,
+      "title": "Collective Intelligence",
+      "isbn": "1933988312",
+      "pageCount": 425,
+      "bookCount": 3
+    },
+    {
+      "id": "10",
+      "title": "full stack development",
+      "isbn": "356362",
+      "pageCount": "599",
+      "bookCount": 5
+    },
+    {
+      "id": "1",
+      "title": "android",
+      "isbn": "dfs234",
+      "pageCount": "599",
+      "bookCount": 6
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "UserName": "abd",
+      "Password": "12312",
+      "Issued_Books": []
+    },
+    {
+      "UserName": "abc",
+      "Password": "12",
+      "Issued_Books": [],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "UserName": "abc",
+      "Password": "12",
+      "Issued_Books": []
+    },
+    {
+      "id": 4,
+      "UserName": "bcde",
+      "Password": "6780",
+      "Issued_Books": []
+    }
+  ],
+  "Admins": [
+    {
+      "UserName": "admin1",
+      "Password": "1234"
+    },
+    {
+      "UserName": "admin2",
+      "Password": "123"
+    },
+    {
+      "UserName": "admin3",
+      "Password": "36536"
+    },
+    {
+      "UserName": "admin2",
+      "Password": "3637"
+    }
+  ]
+}
